@@ -1,5 +1,7 @@
 # 🎧 CompressBot 🎥
 
+![Screenshot from 2024-08-10 09-12-16](https://github.com/user-attachments/assets/935c3079-5da2-4bf9-9362-c922b410d1a8)
+
 Welcome to **CompressBot**—your all-in-one Telegram bot for compressing audio and video files with ease! 🚀
 
 ## 🌟 Features
