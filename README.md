@@ -63,10 +63,6 @@ You can adjust the compression parameters in the script to suit your needs:
 
 If you encounter any issues or have suggestions, please feel free to open an [issue](https://github.com/superhexa/CompressBot/issues) or submit a pull request.
 
-## 💖 Contributing
-
-We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
-
 ## 📜 License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
